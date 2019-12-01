@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>IBMStoredIQGuide images key definitions</title>
+    <topicgroup>
+        <keydef format="png" href="../../resources/images/IBM_logo.png" keys="IBM_logo">
+            <topicmeta>
+                <keywords>
+                    <keyword>Blue_white</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef format="jpg" href="../../resources/images/IBM_StoredIQ_Administrator.jpg" keys="Administrator"></keydef>
+        <keydef format="jpg" href="../../resources/images/IBM_StoredIQ_Data_Server.jpg" keys="Data_Server"></keydef>
+        <keydef format="jpg" href="../../resources/images/IBM_StoredIQ_Data_Workbench.jpg" keys="Workbench"></keydef>
+        <keydef format="jpg" href="../../resources/images/IBM_StoredIQ_Insights.jpg" keys="Insights"></keydef>
+    </topicgroup>
+</map>
+

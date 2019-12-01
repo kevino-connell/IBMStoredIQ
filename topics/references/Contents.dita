@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Contents">
+    <title>Contents</title>
+    <shortdesc>This provides the table of the contents for 'IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+    <refbody>
+        <refbodydiv>
+            <section><title/><p><b>About this
+                        publicaiton.........................................................................................v</b></p>
+                IBM StoredIQ product
+                library................................................................................
+                    v<p> Contacting IBM StoredIQ customer
+                    support............................................................v</p></section>
+            
+        </refbodydiv>
+        <refbodydiv>       
+           
+        <section>
+            <title></title>
+            <lines></lines>
+            <p><b>IBM StoredIQ
+                        components..................................................................................1</b></p>
+            <p>     Solution
+                components.....................................................................................…........1</p>
+            <p>     Applications of IBM
+                StoredIQ...................................................................................1</p>
+        </section>
+        </refbodydiv>
+                    
+        <section>
+            <title></title>
+            <lines></lines>
+            <p><b>Planning for deployment........................................................................................8</b></p>
+            <p>Open Virtual Appliance (OVA) configuration requirements...........................................8</p>
+            <p> Network and port requirements..................................................................................10</p>
+            <p>Environment sizing guidelines........................................................................................13</p>
+            <p>Stack-provisioning prerequisites...................................................................................14 </p>
+            <p>License usage metrics..................................................................................................15</p>
+            <p>Security.......................................................................................................................16</p>
+            <lines></lines>
+          </section>
+        
+          <section>
+            <title></title>
+              <p><b>Deploying IBM StoredIQ...................................................................................... 19</b></p>
+              <p>Deploying the virtual appliances................................................................................... 19</p>
+              <p>Deploying IBM StoredIQ on Microsoft Hyper-V..........................................................20</p>
+        </section>
+    </refbody>
+</reference>

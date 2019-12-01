@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Version_Copyright">
+    <title></title>
+    <shortdesc>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications
+        until otherwise indicated in new editions. </shortdesc>
+    <prolog>
+       <copyright>
+           <copyryear year="2001, 2019"/>
+           <copyrholder>International Business Machines Corporation</copyrholder>
+       </copyright>
+    </prolog>
+    <conbody>
+        <p><b>© Copyright International Business Machines Corporation 2001, 2019.</b></p>
+      
+        <p> US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with
+            IBM Corp.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="preface" path="preface.html"/>
+   <appContext helpID="ProductLibrary" path="ProductLibrary.html"/>
+   <appContext helpID="ContactingIBM" path="../tasks/ContactingIBM.html"/>
+</map>

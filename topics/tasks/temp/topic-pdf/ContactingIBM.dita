@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\kevin\Desktop\Kev CIT\Publication\IBMStoredIQGuide\topics\tasks\temp\topic-pdf?><?workdir-uri file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="ContactingIBM" xtrc="task:1;3:26" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">Contacting IBM StoredIQ customer support</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita"/>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ
+                customer support at this phone number:</p>
+            <ul class="- topic/ul " xtrc="ul:1;10:17" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+                <li class="- topic/li " xtrc="li:1;11:21" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">1-866-227-2068</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:2;13:16" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">Or, see the Contact IBM web site at <xref class="- topic/xref " format="html" href="http://www.ibm.com/contact/us/" scope="external" xtrc="xref:1;13:128" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita"/>.</p>
+            <p class="- topic/p " xtrc="p:3;14:16" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:1;15:24" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita"/>
+            </p>
+            <p class="- topic/p " xtrc="p:4;17:16" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+                <b class="+ topic/ph hi-d/b " xtrc="b:1;18:20" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">Contacting IBM</b>
+                For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer service in the
+                United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).
+                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:2;21:24" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita">
+                For more information about how to contact IBM, including TTY service, see the Contact IBM website at
+                    <xref class="- topic/xref " format="html" href="http://www.ibm.com/contact/us/" scope="external" xtrc="xref:2;23:97" xtrf="file:/C:/Users/kevin/Desktop/Kev%20CIT/Publication/IBMStoredIQGuide/topics/tasks/ContactingIBM.dita"/>.</lines>
+                
+            </p>
+        </context>
+   
+    </taskbody>
+</task>

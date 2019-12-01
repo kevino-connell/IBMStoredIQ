@@ -1,0 +1,1 @@
+define(function() { return [{"appname":"", "appid":"preface", "path":"preface.html"},{"appname":"", "appid":"ProductLibrary", "path":"ProductLibrary.html"},{"appname":"", "appid":"ContactingIBM", "path":"../tasks/ContactingIBM.html"}]});

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>IBM StoredIQ Deployment and Configuration Guide</title>
+    <topicref href="../IBMStoredIQGuide/resources/images/GraphicsKeydefs.ditamap" format="ditamap"/>
+    <topicref href="topics/concepts/DocFrontPage.dita"></topicref>
+    <topicref href="topics/references/Contents.dita"></topicref>
+    <topicref href="../IBMStoredIQGuide/topics/concepts/preface.dita">
+        <topicref href="../IBMStoredIQGuide/topics/concepts/ProductLibrary.dita"/>
+        <topicref href="../IBMStoredIQGuide/topics/tasks/ContactingIBM.dita"/>
+        <topicref href="topics/concepts/Version_Copyright.dita#Version_Copyright"/>
+        </topicref>
+    <topicref href="topics/glossary/IBM%20StoredIQ%20Glossary.dita"></topicref>
+        
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="DocFrontPage" path="topics/concepts/DocFrontPage.html"/>
+   <appContext helpID="Contents" path="topics/references/Contents.html"/>
+   <appContext helpID="preface" path="topics/concepts/preface.html"/>
+   <appContext helpID="ProductLibrary" path="topics/concepts/ProductLibrary.html"/>
+   <appContext helpID="ContactingIBM" path="topics/tasks/ContactingIBM.html"/>
+   <appContext helpID="Version_Copyright"
+               path="topics/concepts/Version_Copyright.html#Version_Copyright"/>
+   <appContext helpID="IBM_StoredIQ_Glossary"
+               path="topics/glossary/IBM%20StoredIQ%20Glossary.html"/>
+</map>

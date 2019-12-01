@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">IBM StoredIQ Deployment and Configuration Guide</span>","topics" : [{"title":"About this publication","shortdesc":"<p class=\"shortdesc\"></p>","href":"preface.html","attributes": {"data-id":"preface",},"menu": {"hasChildren":true,},"tocID":"preface-d62e11","next":"preface-d62e11",}]});
