@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="imagerefs">
+    <title>Image References</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            <image conkeyref="images/Administrator"></image>
+            
+            <image conkeyref="images/Data_Server"></image>
+            <image conkeyref="images/Insights"></image>
+            <image conkeyref="images/Workbench"></image>
+            <image conkeyref="images/IBM_logo"></image>
+                    </p>
+    </conbody>
+</concept>
