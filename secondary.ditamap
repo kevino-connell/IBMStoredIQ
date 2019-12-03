@@ -3,4 +3,5 @@
 <map>
     <title></title>
     <topicref format="ditamap"/>
+    <keydef keys="images" href="../IBMStoredIQGuide/topics/concepts/Images.dita"></keydef>
 </map>
