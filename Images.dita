@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="images">
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <image id="Administrator" href="#images/Administrator"></image>
+        <image id="Data_Server" href="#images/Data_Server"></image>
+        <image id="Workbench" href="#images/Workbench"></image>
+        <image id="Insights" href="#images/Insights"></image>
+        <image id="Policy_Manager" href="#images/Policy_Manager"></image>
+        <image id="IBM_logo" href="#images/IBM_logo"></image>
+    </conbody>
+</concept>
+
