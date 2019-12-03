@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DocFrontPage">
+    <title>Document front page</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            IBM StoredIQ
+        </p>
+        <p>
+            <lines></lines>    
+        </p>
+        <p> <i>Deployment and Configuration Guide </i> </p>
+        <p>
+            <lines></lines>
+        </p>
+        <p></p>
+        <p>
+            <lines></lines>
+        </p>
+        <note>
+            Before using this information and the product it supports, read the information in Notices. 
+        </note>
+        <p></p>
+        <lines></lines>
+        <fig>
+            <image conkeyref="images/IBM_logo" scalefit="yes"/>
+        </fig>
+    </conbody>
+</concept>
